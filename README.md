@@ -5,5 +5,4 @@ Profile
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prototype-Km&theme=apprentice
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=apprentice&show_icons=true)
