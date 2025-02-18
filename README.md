@@ -9,10 +9,6 @@
 📞 010-7421-8523 <br>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kgm970910@gmail.com)](mailto:kgm970910@gmail.com) <span><a href="https://www.notion.so/f5d53abcbe30499c915024f4c8096f6a"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
-
-
-
 <br>
 
 
